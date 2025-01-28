@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mr"
+title                    : "Naim Najmuddin Momin"
 title_separator          : "-"
 name                     : &name "Naim Momin"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Mominnaim/mominnaim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Naim"
+  name             : "Naim Momin"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Mominnaim"
+  github           : "Mominnaim"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/naim-momin-071237191/"
+  linkedin         : "naim-momin-071237191"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

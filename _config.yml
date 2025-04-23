@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Naim Momin"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science student at the University of Houston with 2+ years of hands-on experience in full-stack development"
   location         : "Texas"
   employer         : "University of Houston"
   uri              : # URL
@@ -33,13 +33,12 @@ author:
 
 
   # Repositories and software development
-  codewars         : "https://www.codewars.com/users/Nmomin11"
-  Leetcode         : "https://leetcode.com/u/Naim101/"
-  github           : "https://github.com/Mominnaim"
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  codewars         : "Nmomin11"
+  Leetcode         : "Naim101/"
+  github           : "Mominnaim" 
+  
   # Social media
-  linkedin         : "https://www.linkedin.com/in/naimmomin/"
+  linkedin         : "naimmomin/"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

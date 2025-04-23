@@ -1,18 +1,9 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Naim Najmuddin Momin"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  email       : "mominnaim11@gmail.com"
+  bio         : "Computer Science student at the University of Houston with 2+ years of hands-on experience in full-stack development using Python, Java, JavaScript, HTML/CSS, and modern frameworks. Certified AWS Cloud Practitioner with a strong understanding of cloud fundamentals and software architecture. Passionate about building scalable applications, optimizing performance, and continuously learning. Currently seeking opportunities to apply and expand technical skills in real-world environments."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"

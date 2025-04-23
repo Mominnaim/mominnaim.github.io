@@ -13,7 +13,7 @@ title                    : "Naim Najmuddin Momin"
 title_separator          : "-"
 name                     : &name "Naim Najmuddin Momin"
 description              : &description "Computer Science student at the University of Houston with 2+ years of hands-on experience in full-stack development using Python, Java, JavaScript, HTML/CSS, and modern frameworks. Certified AWS Cloud Practitioner with a strong understanding of cloud fundamentals and software architecture. Passionate about building scalable applications, optimizing performance, and continuously learning. Currently seeking opportunities to apply and expand technical skills in real-world environments."
-url                      : https://mominnaim.github.io/
+url                      : mominnaim
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Naim Momin"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science student at the University of Houston with 2+ years of hands-on experience in full-stack development"
   location         : "Texas"
   employer         : "University of Houston"
   uri              : # URL
@@ -35,8 +35,7 @@ author:
   # Repositories and software development
   codewars         : "https://www.codewars.com/users/Nmomin11"
   Leetcode         : "https://leetcode.com/u/Naim101/"
-  github           : "https://github.com/Mominnaim"
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "https://github.com/Mominnaim"   
 
   # Social media
   linkedin         : "https://www.linkedin.com/in/naimmomin/"

@@ -49,6 +49,6 @@ Skills
   
 Service and leadership
 ======
-* Director of Member Relations, CodeCoogs (Spring 2025–Present)
+* Director of Member Relations, Code[Coogs] (Spring 2025–Present)
   * Led workshops on Bash Scripting, Node.js, and LeetCode
   * Averaged 30 students per workshop

@@ -36,6 +36,11 @@ portfolio
   * Stack: JavaScript, HTML/CSS, Azure SQL
   * Manually implemented CORS policies and backend API from scratch
 
+* Forms Request Service (Spring 2025)  
+  * Full-stack Django web app to generate downloadable forms from user input  
+  * Stack: Django, SQLite3, HTML/CSS, Bootstrap  
+  * Built secure login system, admin panel, and templated PDFs using Django's MVT
+
 
 Skills
 ======

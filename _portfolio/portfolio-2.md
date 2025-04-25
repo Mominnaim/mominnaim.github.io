@@ -1,7 +1,10 @@
 ---
-title: "<a href='https://github.com/alijavaidistar/WhiteRock' target='_blank'>Forms Request Service</a>"
-excerpt: "Creating Forms made easy with our service, just fill in text boxes and once accepted, you can download the pdf version of the form. <br/><iframe width='100%' height='315' src='https://www.youtube.com/embed/mrRwb6p2X4M' frameborder='0' allowfullscreen></iframe>"
+title: "Forms Request Service"
+excerpt: >
+  Creating Forms made easy with our service, just fill in text boxes and once accepted, you can download the pdf version of the form.
+youtube_id: mrRwb6p2X4M
 collection: portfolio
+link: https://github.com/alijavaidistar/WhiteRock
 ---
 
 Developed a full-stack web application using Django with SQLite3 as the database for lightweight, efficient data storage.  

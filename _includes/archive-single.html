@@ -80,5 +80,17 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+    {% if post.youtube_id %}
+      <div class="archive__item-video">
+        <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/{{ post.youtube_id }}" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    {% endif %}
+
   </article>
 </div>

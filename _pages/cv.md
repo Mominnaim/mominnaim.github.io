@@ -42,7 +42,7 @@ Skills
 * Programming Languages
   * Python, Java, JavaScript, TypeScript, C++, C#, SQL, HTML/CSS
 * Tools & Frameworks
-  * Prisma, Stripe, GitHub, Tailwind CSS, MongoDB, MySQL, Postgres, Docker, AWS (S3, EC2, Lambda)
+  * Prisma, Stripe, GitHub, Tailwind CSS, MongoDB, MySQL, Postgres, Docker, AWS (S3, EC2, Lambda), Django
 * Other
   * REST APIs, Bash scripting, Visual Studio Code, IntelliJ, Excel, Jupyter
 

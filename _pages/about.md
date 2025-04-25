@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Software Engineering Journey"
+title: "Naim N Momin"
 author_profile: true
 redirect_from: 
   - /about/

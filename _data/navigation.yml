@@ -12,7 +12,7 @@ main:
     url: /portfolio/
        
   - title: "Resume"
-    url: /files/copiedMain_Naim_Resume.pdf
+    url: files\Main_Resume_Naim_1.pdf
     
   # - title: "CV"
   #   url: /cv-json/
